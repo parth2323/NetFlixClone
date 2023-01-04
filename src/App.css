@@ -1,6 +1,8 @@
-.App {
-  text-align: center;
+.app {
+background-color: #111;
+/* height: 100vh; */
 }
+/*
 
 .App-logo {
   height: 40vmin;
@@ -36,4 +38,4 @@
   100% {
     transform: translateY(0px);
   }
-}
+} */
