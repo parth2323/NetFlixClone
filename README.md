@@ -1,3 +1,15 @@
+# Detailed information about app
+
+- Fetching movie data using TVMDB
+- App deployement on Firebase
+- Subscription checkout using Stripe
+- Data store in Firebase Store
+- Google Authentication for account login
+- React routers and React hooks for application functioanlity
+- Responsive UI
+- Check current plan, plan renewal date and user email
+- Local data storage for account login
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
