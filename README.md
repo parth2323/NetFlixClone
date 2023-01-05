@@ -10,6 +10,9 @@
 - Check current plan, plan renewal date and user email
 - Local data storage for account login
 
+#API Keys
+- Please make sure to check **requests.js** and **firebase.cs** files to add API keys.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
