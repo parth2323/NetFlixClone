@@ -1,5 +1,7 @@
 # Detailed information about app
 
+Demo: https://netflix-clone-90e73.web.app/profile
+
 - Fetching movie data using TVMDB
 - App deployement on Firebase
 - Subscription checkout using Stripe
