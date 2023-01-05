@@ -1,5 +1,5 @@
 //store an API ket in {process.env.API_KEY}
-const API_KEY = "Enter you TVMDB API key ";
+const API_KEY = "Enter__Your__API__Key";
 //To get API key, please click this link: https://thetvdb.com/auth/login?redirect=search
 
 const requests = {
